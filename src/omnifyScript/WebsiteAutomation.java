@@ -95,22 +95,4 @@ public class WebsiteAutomation {
 		Alert alt = driver.switchTo().alert();
 		System.out.println(alt.getText()); //Text Should be New Yoga class created with Omnify
 		alt.dismiss();		
-		
-		
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	}
-
-}
+		}}
